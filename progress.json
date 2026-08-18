@@ -258,41 +258,5 @@
       "Wonderful! You have successfully synced the local tags with the remote tags!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "sensors-diff",
-    "started_at": 1787071861.904531,
-    "completed_at": 1787071865.180135,
-    "comments": [
-      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "sensors-diff",
-    "started_at": 1787071900.637326,
-    "completed_at": 1787071903.868703,
-    "comments": [
-      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "sensors-diff",
-    "started_at": 1787072215.18776,
-    "completed_at": 1787072218.214736,
-    "comments": [
-      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "sensors-diff",
-    "started_at": 1787072293.799275,
-    "completed_at": 1787072296.969787,
-    "comments": [
-      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
-    ],
-    "status": "Incomplete"
   }
 ]
