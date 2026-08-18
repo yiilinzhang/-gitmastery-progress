@@ -1,5 +1,23 @@
 [
   {
+    "exercise_name": "clone-repo",
+    "started_at": 1786973705.329153,
+    "completed_at": 1786973710.064934,
+    "comments": [
+      "Your Github CLI is not setup correctly"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1786971770.017546,
+    "completed_at": 1786971773.021921,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "grocery-shopping",
     "started_at": 1786846791.971524,
     "completed_at": 1786846795.152655,
@@ -28,10 +46,64 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1786970675.002818,
+    "completed_at": 1786970678.624436,
+    "comments": [
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1786970779.435559,
+    "completed_at": 1786970781.632622,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1786968713.007798,
+    "completed_at": 1786968716.27087,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1786969086.917568,
+    "completed_at": 1786969088.923889,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "log-and-order",
     "started_at": 1786849270.249776,
     "completed_at": 1786849271.777248,
     "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1786969703.76763,
+    "completed_at": 1786969708.329286,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786968321.979642,
+    "completed_at": 1786968389.632808,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
     "status": "Completed"
   },
   {
@@ -71,74 +143,11 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "remote-control",
-    "started_at": 1786968321.979642,
-    "completed_at": 1786968389.632808,
-    "comments": [
-      "Great work setting up a public remote repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1786968713.007798,
-    "completed_at": 1786968716.27087,
-    "comments": [
-      "Missing remote called 'upstream'."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1786969086.917568,
-    "completed_at": 1786969088.923889,
-    "comments": [
-      "Great work with using git remote to add an upstream remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "push-over",
-    "started_at": 1786969703.76763,
-    "completed_at": 1786969708.329286,
-    "comments": [
-      "Great work pushing changes to the remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1786970675.002818,
-    "completed_at": 1786970678.624436,
-    "comments": [
-      "You should be using ** to match all subfolders to ignore runaway.txt."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1786970779.435559,
-    "completed_at": 1786970781.632622,
-    "comments": [
-      "Great work using .gitignore!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "fork-repo",
-    "started_at": 1786971770.017546,
-    "completed_at": 1786971773.021921,
-    "comments": [
-      "Great work creating a fork with Github!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "clone-repo",
-    "started_at": 1786973705.329153,
-    "completed_at": 1786973710.064934,
+    "started_at": 1787032995.516089,
+    "completed_at": 1787033000.479476,
     "comments": [
-      "Your Github CLI is not setup correctly"
+      "The remote 'upstream' is missing!"
     ],
     "status": "Incomplete"
   }
